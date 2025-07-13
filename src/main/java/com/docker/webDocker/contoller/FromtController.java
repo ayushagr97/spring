@@ -10,7 +10,7 @@ public class FromtController {
 
     @GetMapping
     public String getWeb(){
-        return "hiiCheckccc";
+        return "docker hub publish";
     }
 
 }
